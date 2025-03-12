@@ -117,7 +117,7 @@ header div {
     margin: 0 auto;
     width: 1000px;
     text-align: center;
-    height: 75vh; /* View width leek mij hier handig */
+    padding: 0 0 500px 0;
 }
 
 header h1 {
